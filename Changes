@@ -1,4 +1,7 @@
-Revision history for Parse-Constructor-Arguments: 0.091510
+Revision history for Parse-Constructor-Arguments: 0.091540
+
+0.091540  2009-06-03 18:06:47 UTC
+        Need to lower the magic level from MooseX::Declare usage to plain Moose
 
 0.091510  2009-05-31 18:19:19 UTC
         Initial release
