@@ -1,5 +1,5 @@
 package Parse::Constructor::Arguments;
-our $VERSION = '0.091540';
+our $VERSION = '0.091570';
 
 
 #ABSTRACT: Parse Moose constructor arguments using PPI
@@ -318,7 +318,7 @@ Parse::Constructor::Arguments - Parse Moose constructor arguments using PPI
 
 =head1 VERSION
 
-version 0.091540
+version 0.091570
 
 =head1 DESCRIPTION
 Parse::Constructor::Arguments parses Moose-style constructor arguments into a 

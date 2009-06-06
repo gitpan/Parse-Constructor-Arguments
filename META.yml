@@ -7,8 +7,9 @@ license: perl
 name: Parse-Constructor-Arguments
 requires:
   Moose: '0.79'
+  MooseX::Types: '0.10'
   PPI: '1.203'
   Test::Exception: '0.27'
 resources:
   repository: git://github.com/nperez/parse-constructor-arguments.git
-version: '0.091540'
+version: '0.091570'
